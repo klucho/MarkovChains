@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkovChains": {
+      "commandName": "Project",
+      "commandLineArgs": "-Input:\"%USERPROFILE%\\source\\repos\\MarkovChains\\Texts\\Genesis.txt\" -RegexpMask:\"([^ ]+ ){1,3}\" -ngram:5 -OutputLines:20"
+    }
+  }
+}
