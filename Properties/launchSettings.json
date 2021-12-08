@@ -2,7 +2,26 @@
   "profiles": {
     "MarkovChains": {
       "commandName": "Project",
-      "commandLineArgs": "-Input:\"%USERPROFILE%\\source\\GitRepos\\MarkovChains\\Texts\\Genesis.txt\" -RegexpMask:\"([^ ]+ ){1,3}\" -ngram:5 -OutputLines:20"
+      "commandLineArgs": "-Input:\"%USERPROFILE%\\source\\repos\\MarkovChains\\Texts\\Genesis.txt\" -RegexpMask:\"([^ ]){3}\" -ngram:8 -OutputLines:20",
+      "workingDirectory": "C:\\Users\\lkrigun\\source\\repos\\MarkovChains",
+      "nativeDebugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "English words": {
+      "commandName": "Project",
+      "commandLineArgs": "-Input:\"%USERPROFILE%\\source\\repos\\MarkovChains\\Texts\\Genesis.txt\" -RegexpMask:\"([^ ]){2,4}\" -ngram:6 -OutputLines:20",
+      "workingDirectory": "C:\\Users\\lkrigun\\source\\repos\\MarkovChains",
+      "nativeDebugging": true
+    },
+    "German words": {
+      "commandName": "Project",
+      "commandLineArgs": "-Input:\"%USERPROFILE%\\source\\repos\\MarkovChains\\Texts\\germantext.txt\" -RegexpMask:\"([^ ]){2,4}\" -ngram:6 -OutputLines:20",
+      "workingDirectory": "C:\\Users\\lkrigun\\source\\repos\\MarkovChains",
+      "nativeDebugging": true
     }
   }
 }

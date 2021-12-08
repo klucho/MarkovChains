@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucho\\source\\GitRepos\\MarkovChains\\MarkovChains.csproj": {}
+    "C:\\Users\\lkrigun\\source\\repos\\MarkovChains\\MarkovChains.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucho\\source\\GitRepos\\MarkovChains\\MarkovChains.csproj": {
+    "C:\\Users\\lkrigun\\source\\repos\\MarkovChains\\MarkovChains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucho\\source\\GitRepos\\MarkovChains\\MarkovChains.csproj",
+        "projectUniqueName": "C:\\Users\\lkrigun\\source\\repos\\MarkovChains\\MarkovChains.csproj",
         "projectName": "MarkovChains",
-        "projectPath": "C:\\Users\\lucho\\source\\GitRepos\\MarkovChains\\MarkovChains.csproj",
-        "packagesPath": "C:\\Users\\lucho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucho\\source\\GitRepos\\MarkovChains\\obj\\",
+        "projectPath": "C:\\Users\\lkrigun\\source\\repos\\MarkovChains\\MarkovChains.csproj",
+        "packagesPath": "C:\\Users\\lkrigun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lkrigun\\source\\repos\\MarkovChains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lkrigun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "net6.0-windows7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -39,21 +40,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "dependencies": {
-            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.9.7, )"
-            },
-            "StyleCop.Analyzers": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.118, )"
-            }
-          },
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -69,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

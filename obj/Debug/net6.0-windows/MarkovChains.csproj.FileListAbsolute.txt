@@ -1,0 +1,15 @@
+C:\Users\lkrigun\source\repos\MarkovChains\bin\Debug\net6.0-windows\MarkovChains.exe
+C:\Users\lkrigun\source\repos\MarkovChains\bin\Debug\net6.0-windows\MarkovChains.deps.json
+C:\Users\lkrigun\source\repos\MarkovChains\bin\Debug\net6.0-windows\MarkovChains.runtimeconfig.json
+C:\Users\lkrigun\source\repos\MarkovChains\bin\Debug\net6.0-windows\MarkovChains.dll
+C:\Users\lkrigun\source\repos\MarkovChains\bin\Debug\net6.0-windows\ref\MarkovChains.dll
+C:\Users\lkrigun\source\repos\MarkovChains\bin\Debug\net6.0-windows\MarkovChains.pdb
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.csproj.AssemblyReference.cache
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.AssemblyInfoInputs.cache
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.AssemblyInfo.cs
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.csproj.CoreCompileInputs.cache
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.dll
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\ref\MarkovChains.dll
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.pdb
+C:\Users\lkrigun\source\repos\MarkovChains\obj\Debug\net6.0-windows\MarkovChains.genruntimeconfig.cache
